@@ -91,6 +91,6 @@ model.plot_model(filename='trace')
 ![trace](./imgs/trace.png)
 
 ## Cooling Recommended
-this is how hot my laptop training the models in the last 3 notebooks (seriously)  
+this is how hot my laptop got training the models in the last 3 notebooks (seriously)  
 
 ![fridge](./imgs/fridge.png)
