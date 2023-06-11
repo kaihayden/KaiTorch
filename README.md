@@ -31,7 +31,7 @@ pip install kaitorch
 3) __Activation Functions__
 	* [Jupyter Notebook](https://github.com/kaihayden/KaiTorch/blob/main/03%20Activation%20Functions.ipynb) // [Google Colab](https://colab.research.google.com/drive/1EdxjL9aeAguvd88F7E1JaEncUTh02Ntt?usp=sharing)
     * **keywords:** sigmoid, tanh, ReLU, LeakyReLU, ELU, swish
-4) __Multi-layer Perceptron and Weight Initialization__
+4) __Dense Layer and Weight Initialization__
 	* [Jupyter Notebook](https://github.com/kaihayden/KaiTorch/blob/main/04%20Dense%20Layer%20%26%20Weight%20Initialization.ipynb) // [Google Colab](https://colab.research.google.com/drive/1dJd1NnuPF3Ne4fSl0JQ-9avyZ4AKTqh0?usp=sharing)
     * **keywords:** dense layer, multi-layer perceptron, weight initialization, sequential class
 5) __Loss Functions__
